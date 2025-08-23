@@ -24,6 +24,12 @@ export const Projects = () => {
       languages: ["React - ", "CSS - ", "JavaScript "],
       url: "https://github.com/iegabriellll/Formulario-Steps",
     },
+    {
+      id: 5,
+      name: "Refri Dev",
+      languages: ["HTML - ", "CSS - ", "JavaScript "],
+      url: "https://github.com/iegabriellll/Refri-Dev.git",
+    },
   ];
 
   return (
