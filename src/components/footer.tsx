@@ -4,14 +4,14 @@ export function Footer() {
       <span>Lucas Gabriell &copy; Copiryght 2025</span>
 
       <a
-        href="https://www.linkedin.com/in/guilhermelimadev/"
+        href="https://www.linkedin.com/in/iegabriellll/"
         className="hover:text-blue-500 transition-colors hover:underline"
         target="_blank"
       >
         Linkedin
       </a>
       <a
-        href="https://github.com/guilhermeslimadev"
+        href="https://github.com/iegabriellll"
         className="hover:text-blue-500 transition-colors hover:underline"
         target="_blank"
       >
