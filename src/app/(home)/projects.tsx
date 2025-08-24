@@ -39,7 +39,7 @@ export const Projects = () => {
     {
       id: 7,
       name: "Spotify Clone",
-      languages: ["HTML - ", "CSS - "],
+      languages: ["HTML - ", "CSS"],
       url: "https://github.com/iegabriellll/Spotify-Clone.git",
     },
   ];
