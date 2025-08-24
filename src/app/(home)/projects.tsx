@@ -36,6 +36,12 @@ export const Projects = () => {
       languages: ["HTML - ", "TailwindCSS - ", "JavaScript "],
       url: "https://github.com/iegabriellll/Cardapio-LucasDev.git",
     },
+    {
+      id: 7,
+      name: "Spotify Clone",
+      languages: ["HTML - ", "CSS - "],
+      url: "https://github.com/iegabriellll/Spotify-Clone.git",
+    },
   ];
 
   return (
