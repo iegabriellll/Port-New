@@ -30,6 +30,12 @@ export const Projects = () => {
       languages: ["HTML - ", "CSS - ", "JavaScript "],
       url: "https://github.com/iegabriellll/Refri-Dev.git",
     },
+    {
+      id: 6,
+      name: "Cardapio Hamburgueria",
+      languages: ["HTML - ", "TailwindCSS - ", "JavaScript "],
+      url: "https://github.com/iegabriellll/Cardapio-LucasDev.git",
+    },
   ];
 
   return (
