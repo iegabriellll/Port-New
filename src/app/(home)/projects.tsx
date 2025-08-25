@@ -42,6 +42,12 @@ export const Projects = () => {
       languages: ["HTML - ", "CSS"],
       url: "https://github.com/iegabriellll/Spotify-Clone.git",
     },
+    {
+      id:8,
+      name: "Clone Twitter/X",
+      languages: ["NEXTJS - ", "TYPESCRIPT - ", "TAILWINDCSS "],
+      url: "https://github.com/iegabriellll/Clone-Twitter-X.git",
+    },
   ];
 
   return (
