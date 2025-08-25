@@ -45,7 +45,7 @@ export const Projects = () => {
     {
       id:8,
       name: "Clone Twitter/X",
-      languages: ["Next-JS- ", "TypeScript - ", "TailwindCSS "],
+      languages: ["NextJS - ", "TypeScript - ", "TailwindCSS "],
       url: "https://github.com/iegabriellll/Clone-Twitter-X.git",
     },
   ];
