@@ -48,6 +48,12 @@ export const Projects = () => {
       languages: ["NextJS - ", "TypeScript - ", "TailwindCSS "],
       url: "https://github.com/iegabriellll/Clone-Twitter-X.git",
     },
+    {
+      id:9,
+      name: "Apple Watch,
+      languages: ["React - ", "JavaScript - "],
+      url: "https://github.com/iegabriellll/Apple-Watch.git",
+    },
   ];
 
   return (
