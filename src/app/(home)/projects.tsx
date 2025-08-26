@@ -50,8 +50,8 @@ export const Projects = () => {
     },
     {
       id:9,
-      name: "Apple Watch,
-      languages: ["React - ", "JavaScript - "],
+      name: "Apple Watch",
+      languages: ["React - ", "JavaScript "],
       url: "https://github.com/iegabriellll/Apple-Watch.git",
     },
   ];
